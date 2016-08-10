@@ -1,0 +1,29 @@
+{
+  "name": "Sametime",
+  "version": "1.0.0",
+  "description": "Sametime",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanmonge"
+  },
+  "keywords": [
+    "IBM",
+    "Sametime",
+    "Web",
+    "Esteban Monge"
+  ],
+  "author": "Esteban Monge",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/estebanmonge/issues"
+  },
+  "homepage": "https://github.com/estebanmonge",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
+
